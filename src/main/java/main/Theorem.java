@@ -7,17 +7,20 @@ package main;
 public class Theorem {
 
     /* Milyen primitív adattípusok léteznek a Java-ban? Sorold fel őket! - 1p
-        Ide jön a válaszod...
+        Byte, short, int, long, float, double, char, boolean.
      */
 
 
     /* Mi a különbség a while és a do-while ciklusok között? - 2p
-        Ide jön a válaszod...
+        A Whilenal a feltetel ellenorzese elobb van mint hogy lefutna a ciklus.
+        Do Whilenal elobb lefut a ciklus es utana ellenorzi a feltetelt.
      */
 
 
     /* Mik a tömbök? (Mire használhatóak? Mikor érdemes használni őket? Hogyan hozhatjuk létre őket?) - 3p
-        Ide jön a válaszod...
+        Egy adatstruktura azonos tipusu elemek tarolasara. A tomb merete csak egyszer athato meg! KEsobb nem valtoztathato.
+        Akkor erdemes hasznalni amikor tobb ugyanolyan valtozot hasznalunk egyszerre ( Pl. homerekletek ).
+        Letrehozasara egy pelda:  " int[] tomb neve = new int[tomb hossza] ".
      */
 
 }
